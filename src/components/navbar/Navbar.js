@@ -4,17 +4,9 @@ import { FiMenu } from "react-icons/fi";
 import { MdClose } from "react-icons/md";
 import { FaLinkedinIn, FaInstagram, FaGithub } from "react-icons/fa";
 import { navLinksdata } from "../../constants";
-import { useTypewriter } from "react-simple-typewriter";
 import { kisbg } from "../../assets";
 
 const Navbar = () => {
-  const [text] = useTypewriter({
-    words: ["Hey Buddy", "Welcome All"],
-    loop: true,
-    typeSpeed: 50,
-    deleteSpeed: 30,
-    delaySpeed: 2000,
-  });
   const [showMenu, setShowMenu] = useState(false);
   return (
     <div className="w-full h-24 px-3 lg:px-10 top-0 z-50 bg-transparent mx-auto flex justify-between items-center font-titleFont border-b-[1px] border-b-gray-600">

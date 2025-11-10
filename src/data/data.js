@@ -1,11 +1,11 @@
-import { AiFillAppstore, AiOutlineAntDesign } from "react-icons/ai";
+
 import { FaAws } from "react-icons/fa";
 import { VscAzure } from "react-icons/vsc";
 import { IoIosSettings } from "react-icons/io";
 import { FaNetworkWired } from "react-icons/fa";
 import { FaLinux } from "react-icons/fa";
 import { FaUbuntu } from "react-icons/fa";
-import { FaMobile, FaGlobe, FaVideo } from "react-icons/fa";
+
 
 // Features Data
 export const featuresData = [
