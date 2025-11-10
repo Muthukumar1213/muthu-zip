@@ -54,7 +54,7 @@ const Navbar = () => {
                   alt="logo"
                 />
                 <p className="text-sm text-gray-400 mt-2">
-                  I'm Kishore Nagarajan , Dedicated Associate Developer with a
+                  I'm Muthukumar , Dedicated AWS Cloud Developer with a
                   B.E. in Electronics and Communication Engineering.
                 </p>
               </div>
