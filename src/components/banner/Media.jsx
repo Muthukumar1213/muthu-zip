@@ -1,13 +1,5 @@
 import React from "react";
 import { FaLinkedinIn, FaGithub, FaAws, FaDev, FaLinux, FaUbuntu  } from "react-icons/fa";
-import {
-  SiTailwindcss,
-  SiFigma,
-  SiNextdotjs,
-  SiJavascript,
-} from "react-icons/si";
-import { IoLogoReact } from "react-icons/io5"; // For React Native
-
 const Media = () => {
   return (
     <div className="flex flex-col xl:flex-row gap-10 lgl:gap-0 justify-between">

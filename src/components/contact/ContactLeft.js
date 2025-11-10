@@ -1,11 +1,5 @@
 import React from "react";
-import {
-  FaFacebookF,
-  FaTwitter,
-  FaLinkedinIn,
-  FaGithub,
-  FaInstagram,
-} from "react-icons/fa";
+import { FaLinkedinIn, FaGithub } from "react-icons/fa";
 import { contact } from "../../assets/index";
 
 const ContactLeft = () => {
@@ -48,7 +42,6 @@ const ContactLeft = () => {
           >
             <FaLinkedinIn />
           </a>
-          
         </div>
       </div>
     </div>

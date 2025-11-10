@@ -1,27 +1,17 @@
 import { AiFillAppstore, AiOutlineAntDesign } from "react-icons/ai";
-import { FaAws} from "react-icons/fa";
+import { FaAws } from "react-icons/fa";
 import { VscAzure } from "react-icons/vsc";
 import { IoIosSettings } from "react-icons/io";
 import { FaNetworkWired } from "react-icons/fa";
 import { FaLinux } from "react-icons/fa";
 import { FaUbuntu } from "react-icons/fa";
 import { FaMobile, FaGlobe, FaVideo } from "react-icons/fa";
-import {
-  SiProgress,
-  SiAntdesign,
-  SiUikit,
-  SiFigma,
-  SiBlockchaindotcom,
-  SiFrontendmentor,
-  SiFreedesktopdotorg,
-  SiDatabricks,
-} from "react-icons/si";
 
 // Features Data
 export const featuresData = [
   {
     id: 1,
-    icon: <FaAws/>,
+    icon: <FaAws />,
     title: "AWS",
     des: "Proficient in AWS services (EC2, RDS, S3, Cloud Front,IAM). Automated processes using AWS Lambda and enforced security with IAM policies",
   },
