@@ -54,8 +54,8 @@ const Navbar = () => {
                   alt="logo"
                 />
                 <p className="text-sm text-gray-400 mt-2">
-                  I'm Muthukumar , Dedicated AWS Cloud Developer with a
-                  B.E. in Electronics and Communication Engineering.
+                  I'm Muthukumar , Dedicated AWS Cloud Developer with a B.E. in
+                  Electronics and Communication Engineering.
                 </p>
               </div>
               <ul className="flex flex-col gap-4">
@@ -84,22 +84,16 @@ const Navbar = () => {
                 </h2>
                 <div className="flex gap-4">
                   <a
-                    href="https://github.com/HariPrasad1302"
+                    href="https://github.com/Muthukumar1213"
                     className="bannerIcon"
                   >
                     <FaGithub />
                   </a>
                   <a
-                    href="https://www.linkedin.com/in/hari-prasad-3ba737230/"
+                    href="http://linkedin.com/in/muthukumarneethimohan"
                     className="bannerIcon"
                   >
                     <FaLinkedinIn />
-                  </a>
-                  <a
-                    href="https://www.instagram.com/hari13_official/"
-                    className="bannerIcon"
-                  >
-                    <FaInstagram />
                   </a>
                 </div>
               </div>

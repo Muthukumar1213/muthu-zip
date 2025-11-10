@@ -15,7 +15,7 @@ const Media = () => {
             <FaGithub />
           </a>
           <a
-            href="linkedin.com/in/muthukumarneethimohan"
+            href="http://linkedin.com/in/muthukumarneethimohan"
             className="bannerIcon"
             target="_blank"
             rel="noopener noreferrer"
